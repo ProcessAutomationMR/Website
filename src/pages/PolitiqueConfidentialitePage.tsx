@@ -70,7 +70,7 @@ export function PolitiqueConfidentialitePage() {
             <section className="mb-12">
               <h2 className="text-2xl font-light text-white mb-6">Article 2 : Les données à caractère personnel collectées et traitées</h2>
               <p className="mb-4">
-                Dans le cadre de l’utilisation de notre Site <a href="https://www.gbm-menuiserie.ovh/" className="text-white underline hover:text-neutral-300 transition-colors">https://www.gbmmenuiserie.fr/</a>, nous recueillons des données à caractère personnel concernant les utilisateurs.
+                Dans le cadre de l’utilisation de notre Site <a href="https://www.gbm-menuiserie.ovh/" className="text-white underline hover:text-neutral-300 transition-colors">https://www.gbmmenuiserie.com/</a>, nous recueillons des données à caractère personnel concernant les utilisateurs.
               </p>
 
               <h3 className="text-xl font-light text-white mb-4 mt-6">2.1 Les données générales collectées via le site internet</h3>
