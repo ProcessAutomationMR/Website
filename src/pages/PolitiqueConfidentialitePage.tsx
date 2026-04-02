@@ -24,7 +24,7 @@ export function PolitiqueConfidentialitePage() {
             <section className="mb-12">
               <h2 className="text-2xl font-light text-white mb-6">Préambule</h2>
               <p className="mb-4">
-                La présente charte relative à l’utilisation des données personnelles concerne le site internet accessible notamment via l’adresse suivante : <a href="https://www.gbm-menuiserie.ovh/" className="text-white underline hover:text-neutral-300 transition-colors">https://www.gbmmenuiserie.fr/</a>, édité par la société GBM MENUISERIE. Elle a pour but de vous préciser :
+                La présente charte relative à l’utilisation des données personnelles concerne le site internet accessible notamment via l’adresse suivante : <a href="https://www.gbm-menuiserie.ovh/" className="text-white underline hover:text-neutral-300 transition-colors">https://www.gbmmenuiserie.com/</a>, édité par la société GBM MENUISERIE. Elle a pour but de vous préciser :
               </p>
               <ul className="list-disc list-inside space-y-2 ml-4 mb-4">
                 <li>La façon dont, le cas échéant, nous sommes susceptibles de collecter et de traiter vos données personnelles ;</li>
